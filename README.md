@@ -33,5 +33,6 @@ The laptop was experiencing power supply issues, which manifested as an inabilit
 
 The laptop was reassembled and tested to confirm that the power supply issue had been resolved. The laptop was able to charge and power on correctly, confirming the success of the repair.
 
-<h2>  </h2> Caution
+<h2> Caution: </h2> 
+
 Hardware troubleshooting and repair should only be undertaken by those with the necessary skills and experience. Incorrectly handling internal components can result in further damage. Always consider seeking professional assistance if you are unsure.
